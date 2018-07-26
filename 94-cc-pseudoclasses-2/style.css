@@ -7,3 +7,7 @@ a:link {
 a:visited {
  color: steelblue;
 }
+
+a:hover {
+ color: tomato;
+}
