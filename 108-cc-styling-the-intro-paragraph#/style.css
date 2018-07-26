@@ -4,3 +4,8 @@
  font-size: 1.25em;  /* 20px/16px */
  line-height: 1.6;
 }
+
+.intro span {
+ font-weight= bold;
+ font-style= italic;
+}
