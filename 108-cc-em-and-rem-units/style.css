@@ -12,3 +12,7 @@ h1 {
   font-size: 5.625rem;
 }
 
+h2 {
+  font-size: 0.302em; /* 16px/53px */ 
+}
+
