@@ -11,5 +11,9 @@
 }
 
 .content-lodging {
- float:right;
+ float: right;
+}
+
+.content-traveling {
+ float: left;
 }
