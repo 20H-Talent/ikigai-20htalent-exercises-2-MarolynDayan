@@ -1,3 +1,9 @@
 /* Complete the challenge by writing CSS below */
 
+@media (max-width: 1020px) {
+ .main-header {
+  background-color: tomato;
+  color: white;
+ }
+}
 
