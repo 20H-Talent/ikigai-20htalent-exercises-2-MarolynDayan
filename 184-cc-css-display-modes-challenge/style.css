@@ -8,6 +8,6 @@ header {
   margin: auto;
 }
 
-.main-nav {
+.main-nav li {
  display: inline-block;
 }
