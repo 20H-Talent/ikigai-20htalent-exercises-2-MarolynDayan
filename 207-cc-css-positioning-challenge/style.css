@@ -6,3 +6,6 @@
  margin-left: 125px;
 }
 
+.card {
+ position: relative;
+}
