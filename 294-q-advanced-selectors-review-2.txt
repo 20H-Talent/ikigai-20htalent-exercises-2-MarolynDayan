@@ -1,0 +1,17 @@
+1
+:not
+
+2
+c
+
+3
+b
+
+4
+root, :root
+
+5
+:target
+
+6
+::first-line
