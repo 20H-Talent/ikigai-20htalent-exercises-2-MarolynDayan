@@ -7,5 +7,6 @@
    
   img:nth-child(3n + 4) {
       clear: left;
+      border-color: aquamarine;
   }
 }
