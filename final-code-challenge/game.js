@@ -21,6 +21,9 @@ function createStars() {
     starCreate(425, 100, 'star');
     starCreate(315, 100, 'star');
     starCreate(175, 200, 'star');
+    starCreate(400, 150, 'star');
+    starCreate(80, 200, 'star');
+
 
 }
 
