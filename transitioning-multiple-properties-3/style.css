@@ -1,7 +1,7 @@
 /* Complete the challenge by writing CSS below */
 
 .content {
-
+    transition-property: color, background;
 }
 
 .invert:checked ~ .content {
