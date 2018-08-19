@@ -4,6 +4,7 @@
 	height: 0;
     overflow: hidden;
     transition-property: height;
+    transition-duration: .6s;
 }
 
 .expand:checked ~ .collapsed {
