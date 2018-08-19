@@ -2,9 +2,10 @@
 
 .collapsed {
 	height: 0;
-	overflow: hidden;
+    overflow: hidden;
+    transition-property: height;
 }
 
 .expand:checked ~ .collapsed {
-	height: 34vh;
+    height: 34vh;
 }
