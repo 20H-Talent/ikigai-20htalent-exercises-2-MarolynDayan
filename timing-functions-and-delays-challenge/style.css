@@ -3,6 +3,7 @@
 .nav-item {
     flex-grow: 1;
     transition: flex-grow, .5s;
+    transition-timing-function: ease-out;
 }
 
 .nav-item:hover {
