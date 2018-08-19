@@ -2,6 +2,7 @@
 
 .content {
     transition-property: color, background;
+    transition-duration: 400ms, 500ms;
 }
 
 .invert:checked ~ .content {
