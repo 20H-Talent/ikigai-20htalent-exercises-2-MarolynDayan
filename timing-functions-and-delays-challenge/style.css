@@ -1,7 +1,8 @@
 /* nav-item transitions ---------- */
 
 .nav-item {
-	flex-grow: 1;
+    flex-grow: 1;
+    transition: flex-grow, .5s;
 }
 
 .nav-item:hover {
