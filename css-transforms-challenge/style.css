@@ -1,0 +1,15 @@
+/* overlay and img transitions ---------- */
+
+.overlay,
+img  {
+	transition: transform .6s ease-out;
+}
+
+/* overlay and img transforms ---------- */
+
+.photo:hover .overlay {
+
+}
+.photo:hover img {
+
+}
