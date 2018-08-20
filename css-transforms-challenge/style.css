@@ -8,7 +8,7 @@ img  {
 /* overlay and img transforms ---------- */
 
 .photo:hover .overlay {
-
+    transform: translateY(-100%);
 }
 .photo:hover img {
 
