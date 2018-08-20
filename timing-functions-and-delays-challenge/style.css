@@ -2,7 +2,7 @@
 
 .nav-item {
     flex-grow: 1;
-    transition: flex-grow, .5s;
+    transition: flex-grow .5s;
     transition-timing-function: ease-out;
 }
 
@@ -14,7 +14,7 @@
 
 .icon {
   right: -25px;
-  transition: right, .4s, .3s;
+  transition: right .4s ease-in-out .3s;
 }
 
 .nav-item:hover .icon {
