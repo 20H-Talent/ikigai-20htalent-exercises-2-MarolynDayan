@@ -6,5 +6,5 @@
 }
 
 .box {
-    @include square(50px,red )
+    @include square($color:red, $size:50px)
 }
