@@ -7,3 +7,8 @@
 .img-author {
     @extend;
 }
+
+%warning {
+    font-weight: bold;
+    color: red;
+}
